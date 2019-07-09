@@ -12,6 +12,7 @@
     <artifactId>gmall-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>gmall-parent</name>
+    <packaging>pom</packaging>
     <description>父工程，用来进行依赖管理</description>
 
     <properties>
